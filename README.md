@@ -20,7 +20,10 @@ problema1 += x11 == 1000
 problema1 += x12 + x22 == 2000
 problema1 += x13 + x23 + x33 == 3000
 problema1
-PROBLEMA1.SOLVE()
+problema1.solve()
 for V in problema1.variables () :
-print (v.name, "=", V.varValue)
+print (V.name, "=", V.varValue)
 print('custo total =', value(problema1.objective))
+
+## Atividade II de Pesquisa Operacional
+https://colab.research.google.com/drive/1nOBRWfENg7m-uuB35wrOztKi_j0t4Tji#scrollTo=dV6MFsqKYtMt
