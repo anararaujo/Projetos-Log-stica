@@ -1,6 +1,8 @@
 # Projetos Logistica
 Aqui é onde salvo todos os projetos elaborados em sala de aula a partir do 3° semestre do curso de Logística da Fatec Jessen Vidal.
-_CÓDIGO PYTHON DA ATIVIDADE 2 PO
+
+
+## CÓDIGO PYTHON DA ATIVIDADE 2 PO
 !pip install pulp
 from pulp import *
 problema1 = LpProblem('Producao_monobloco', LpMinimize)
