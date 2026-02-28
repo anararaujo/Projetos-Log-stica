@@ -25,6 +25,13 @@ for V in problema1.variables () :
 print (V.name, "=", V.varValue)
 print('custo total =', value(problema1.objective))
 
+## Atividade I de Pesquisa Operacional
+https://colab.research.google.com/drive/1Yt6lDPhRTdgJhM2-JB25_JJlqKOHIqTk#scrollTo=XVPlkcQFwdgX
+
+<img width="1204" height="708" alt="image" src="https://github.com/user-attachments/assets/8d3a666f-7433-4224-8dbd-541f0ddfcf9f" />
+<img width="1303" height="689" alt="image" src="https://github.com/user-attachments/assets/25dba3d2-7b96-4c7e-b6a1-20d7a0278580" />
+
+
 ## Atividade II de Pesquisa Operacional
 https://colab.research.google.com/drive/1nOBRWfENg7m-uuB35wrOztKi_j0t4Tji#scrollTo=dV6MFsqKYtMt
 <img width="1851" height="949" alt="image" src="https://github.com/user-attachments/assets/160e1c59-948d-412f-9a83-f69e835a169f" />
